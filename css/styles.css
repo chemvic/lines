@@ -26,6 +26,7 @@ background-color: lemon;
         top: 0;
         left: 50%;
         z-index: 5;
+        filter: blur(0.5px);
 }
 .rectangle2{
     position: absolute;
@@ -39,6 +40,7 @@ background-color: lemon;
         right
         : 50%; 
         z-index:1;
+        filter: blur(0.5px);
 }
 .nout{
     position: absolute;
